@@ -1,0 +1,23 @@
+# Gaurav Singh
+
+> WordPress & AI Developer focused on WordPress, WooCommerce, AI integrations, automation, technical SEO and website performance.
+
+## Identity
+- Name: Gaurav Singh
+- Role: WordPress & AI Developer
+- Location: Lucknow, India
+- Availability: Remote and international client projects
+- LinkedIn: https://www.linkedin.com/in/gauravsinghragh/
+
+## Expertise
+- WordPress development
+- WooCommerce
+- AI integrations and chatbots
+- Workflow automation
+- Local LLM deployment
+- Technical SEO and structured data
+- Core Web Vitals and performance optimization
+- AWS, Linux, DNS, SSL and deployment
+
+## Portfolio
+- https://gauravsingr.github.io/gaurav-singh-wordpress-ai-developer/
